@@ -1,0 +1,13 @@
+{
+    "name": "jmiy/geoip",
+    "description": "geoip for hyperf",
+    "type": "library",
+    "license": "BSD-2-Clause",
+    "authors": [
+        {
+            "name": "Jmiy Cen",
+            "email": "751399695@qq.com"
+        }
+    ],
+    "require": {}
+}
